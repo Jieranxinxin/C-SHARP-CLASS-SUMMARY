@@ -1,0 +1,11 @@
+D:\c#\VS&C#\开发应用程序\开发应用程序\bin\Debug\开发应用程序.exe.config
+D:\c#\VS&C#\开发应用程序\开发应用程序\bin\Debug\开发应用程序.exe
+D:\c#\VS&C#\开发应用程序\开发应用程序\bin\Debug\开发应用程序.pdb
+D:\c#\VS&C#\开发应用程序\开发应用程序\obj\Debug\开发应用程序.csprojAssemblyReference.cache
+D:\c#\VS&C#\开发应用程序\开发应用程序\obj\Debug\开发应用程序.Form1.resources
+D:\c#\VS&C#\开发应用程序\开发应用程序\obj\Debug\开发应用程序.Properties.Resources.resources
+D:\c#\VS&C#\开发应用程序\开发应用程序\obj\Debug\开发应用程序.csproj.GenerateResource.cache
+D:\c#\VS&C#\开发应用程序\开发应用程序\obj\Debug\开发应用程序.exe
+D:\c#\VS&C#\开发应用程序\开发应用程序\obj\Debug\开发应用程序.pdb
+D:\c#\VS&C#\开发应用程序\开发应用程序\obj\Debug\开发应用程序.Form2.resources
+D:\c#\VS&C#\开发应用程序\开发应用程序\obj\Debug\开发应用程序.Form3.resources

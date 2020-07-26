@@ -1,0 +1,6 @@
+D:\c#\VS&C#\类的属性和方法\类的属性和方法\bin\Debug\类的属性和方法.exe.config
+D:\c#\VS&C#\类的属性和方法\类的属性和方法\bin\Debug\类的属性和方法.exe
+D:\c#\VS&C#\类的属性和方法\类的属性和方法\bin\Debug\类的属性和方法.pdb
+D:\c#\VS&C#\类的属性和方法\类的属性和方法\obj\Debug\类的属性和方法.csprojAssemblyReference.cache
+D:\c#\VS&C#\类的属性和方法\类的属性和方法\obj\Debug\类的属性和方法.exe
+D:\c#\VS&C#\类的属性和方法\类的属性和方法\obj\Debug\类的属性和方法.pdb

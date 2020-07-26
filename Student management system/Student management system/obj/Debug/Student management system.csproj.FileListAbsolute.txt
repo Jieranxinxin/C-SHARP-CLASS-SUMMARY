@@ -1,0 +1,12 @@
+D:\C#\VS&C#\Student management system\Student management system\bin\Debug\Student management system.exe.config
+D:\C#\VS&C#\Student management system\Student management system\bin\Debug\Student management system.exe
+D:\C#\VS&C#\Student management system\Student management system\bin\Debug\Student management system.pdb
+D:\C#\VS&C#\Student management system\Student management system\obj\Debug\Student management system.csprojAssemblyReference.cache
+D:\C#\VS&C#\Student management system\Student management system\obj\Debug\Student_management_system.Properties.Resources.resources
+D:\C#\VS&C#\Student management system\Student management system\obj\Debug\Student management system.csproj.GenerateResource.cache
+D:\C#\VS&C#\Student management system\Student management system\obj\Debug\Student management system.exe
+D:\C#\VS&C#\Student management system\Student management system\obj\Debug\Student management system.pdb
+D:\C#\VS&C#\Student management system\Student management system\obj\Debug\Student_management_system.Function.resources
+D:\C#\VS&C#\Student management system\Student management system\obj\Debug\Student_management_system.main.resources
+D:\C#\VS&C#\Student management system\Student management system\obj\Debug\Student_management_system.revamp.resources
+D:\C#\VS&C#\Student management system\Student management system\obj\Debug\Student_management_system.Add.resources

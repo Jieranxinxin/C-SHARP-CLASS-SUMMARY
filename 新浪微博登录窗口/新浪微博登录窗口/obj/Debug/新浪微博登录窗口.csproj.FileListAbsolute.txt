@@ -1,0 +1,10 @@
+D:\C#\VS&C#\新浪微博登录窗口\新浪微博登录窗口\bin\Debug\新浪微博登录窗口.exe.config
+D:\C#\VS&C#\新浪微博登录窗口\新浪微博登录窗口\bin\Debug\新浪微博登录窗口.exe
+D:\C#\VS&C#\新浪微博登录窗口\新浪微博登录窗口\bin\Debug\新浪微博登录窗口.pdb
+D:\C#\VS&C#\新浪微博登录窗口\新浪微博登录窗口\obj\Debug\新浪微博登录窗口.csprojAssemblyReference.cache
+D:\C#\VS&C#\新浪微博登录窗口\新浪微博登录窗口\obj\Debug\新浪微博登录窗口.Form1.resources
+D:\C#\VS&C#\新浪微博登录窗口\新浪微博登录窗口\obj\Debug\新浪微博登录窗口.Properties.Resources.resources
+D:\C#\VS&C#\新浪微博登录窗口\新浪微博登录窗口\obj\Debug\新浪微博登录窗口.csproj.GenerateResource.cache
+D:\C#\VS&C#\新浪微博登录窗口\新浪微博登录窗口\obj\Debug\新浪微博登录窗口.csproj.CoreCompileInputs.cache
+D:\C#\VS&C#\新浪微博登录窗口\新浪微博登录窗口\obj\Debug\新浪微博登录窗口.exe
+D:\C#\VS&C#\新浪微博登录窗口\新浪微博登录窗口\obj\Debug\新浪微博登录窗口.pdb

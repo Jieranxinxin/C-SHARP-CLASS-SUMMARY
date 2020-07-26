@@ -1,0 +1,6 @@
+D:\c#\VS&C#\方法\方法\bin\Debug\方法.exe.config
+D:\c#\VS&C#\方法\方法\bin\Debug\方法.exe
+D:\c#\VS&C#\方法\方法\bin\Debug\方法.pdb
+D:\c#\VS&C#\方法\方法\obj\Debug\方法.csprojAssemblyReference.cache
+D:\c#\VS&C#\方法\方法\obj\Debug\方法.exe
+D:\c#\VS&C#\方法\方法\obj\Debug\方法.pdb

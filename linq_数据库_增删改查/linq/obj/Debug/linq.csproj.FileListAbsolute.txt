@@ -1,0 +1,9 @@
+D:\C#\VS&C#\linq\linq\bin\Debug\linq.exe.config
+D:\C#\VS&C#\linq\linq\bin\Debug\linq.exe
+D:\C#\VS&C#\linq\linq\bin\Debug\linq.pdb
+D:\C#\VS&C#\linq\linq\obj\Debug\linq.csprojAssemblyReference.cache
+D:\C#\VS&C#\linq\linq\obj\Debug\linq.Form1.resources
+D:\C#\VS&C#\linq\linq\obj\Debug\linq.Properties.Resources.resources
+D:\C#\VS&C#\linq\linq\obj\Debug\linq.csproj.GenerateResource.cache
+D:\C#\VS&C#\linq\linq\obj\Debug\linq.exe
+D:\C#\VS&C#\linq\linq\obj\Debug\linq.pdb

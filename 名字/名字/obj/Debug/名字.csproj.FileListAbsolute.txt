@@ -1,0 +1,6 @@
+D:\c#\VS&C#\名字\名字\bin\Debug\名字.exe.config
+D:\c#\VS&C#\名字\名字\bin\Debug\名字.exe
+D:\c#\VS&C#\名字\名字\bin\Debug\名字.pdb
+D:\c#\VS&C#\名字\名字\obj\Debug\名字.csprojAssemblyReference.cache
+D:\c#\VS&C#\名字\名字\obj\Debug\名字.exe
+D:\c#\VS&C#\名字\名字\obj\Debug\名字.pdb
