@@ -1,0 +1,11 @@
+D:\C#\VS&C#\20200419Test\20200419Test\bin\Debug\20200419Test.exe.config
+D:\C#\VS&C#\20200419Test\20200419Test\bin\Debug\20200419Test.exe
+D:\C#\VS&C#\20200419Test\20200419Test\bin\Debug\20200419Test.pdb
+D:\C#\VS&C#\20200419Test\20200419Test\obj\Debug\_20200419Test.Form1.resources
+D:\C#\VS&C#\20200419Test\20200419Test\obj\Debug\_20200419Test.Properties.Resources.resources
+D:\C#\VS&C#\20200419Test\20200419Test\obj\Debug\20200419Test.csproj.GenerateResource.cache
+D:\C#\VS&C#\20200419Test\20200419Test\obj\Debug\20200419Test.exe
+D:\C#\VS&C#\20200419Test\20200419Test\obj\Debug\20200419Test.pdb
+D:\C#\VS&C#\20200419Test\20200419Test\obj\Debug\_20200419Test.Form2.resources
+D:\C#\VS&C#\20200419Test\20200419Test\obj\Debug\20200419Test.csprojAssemblyReference.cache
+D:\C#\VS&C#\20200419Test\20200419Test\obj\Debug\_20200419Test.Form3.resources

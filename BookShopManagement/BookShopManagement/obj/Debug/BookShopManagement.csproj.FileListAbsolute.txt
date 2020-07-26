@@ -1,0 +1,15 @@
+D:\C#\VS&C#\BookShopManagement\BookShopManagement\bin\Debug\BookShopManagement.exe.config
+D:\C#\VS&C#\BookShopManagement\BookShopManagement\bin\Debug\BookShopManagement.exe
+D:\C#\VS&C#\BookShopManagement\BookShopManagement\bin\Debug\BookShopManagement.pdb
+D:\C#\VS&C#\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.csprojAssemblyReference.cache
+D:\C#\VS&C#\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.Form1.resources
+D:\C#\VS&C#\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.Properties.Resources.resources
+D:\C#\VS&C#\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.csproj.GenerateResource.cache
+D:\C#\VS&C#\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.exe
+D:\C#\VS&C#\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.pdb
+D:\C#\VS&C#\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.Forms.Form_Dashboard.resources
+D:\C#\VS&C#\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.UserControls.UC_Home.resources
+D:\C#\VS&C#\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.csproj.CopyComplete
+D:\C#\VS&C#\BookShopManagement\BookShopManagement\bin\Debug\bunifuDataviz 1.0.1.dll
+D:\C#\VS&C#\BookShopManagement\BookShopManagement\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\C#\VS&C#\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.UserControls.UC_sales.resources

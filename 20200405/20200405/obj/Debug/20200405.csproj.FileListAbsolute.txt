@@ -1,0 +1,9 @@
+D:\c#\VS&C#\20200405\20200405\bin\Debug\20200405.exe.config
+D:\c#\VS&C#\20200405\20200405\bin\Debug\20200405.exe
+D:\c#\VS&C#\20200405\20200405\bin\Debug\20200405.pdb
+D:\c#\VS&C#\20200405\20200405\obj\Debug\20200405.csprojAssemblyReference.cache
+D:\c#\VS&C#\20200405\20200405\obj\Debug\_20200405.Form1.resources
+D:\c#\VS&C#\20200405\20200405\obj\Debug\_20200405.Properties.Resources.resources
+D:\c#\VS&C#\20200405\20200405\obj\Debug\20200405.csproj.GenerateResource.cache
+D:\c#\VS&C#\20200405\20200405\obj\Debug\20200405.exe
+D:\c#\VS&C#\20200405\20200405\obj\Debug\20200405.pdb

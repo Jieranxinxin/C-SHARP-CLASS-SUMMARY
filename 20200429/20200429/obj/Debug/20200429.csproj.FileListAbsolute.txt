@@ -1,0 +1,6 @@
+D:\C#\VS&C#\20200429\20200429\bin\Debug\20200429.exe.config
+D:\C#\VS&C#\20200429\20200429\bin\Debug\20200429.exe
+D:\C#\VS&C#\20200429\20200429\bin\Debug\20200429.pdb
+D:\C#\VS&C#\20200429\20200429\obj\Debug\20200429.csprojAssemblyReference.cache
+D:\C#\VS&C#\20200429\20200429\obj\Debug\20200429.exe
+D:\C#\VS&C#\20200429\20200429\obj\Debug\20200429.pdb
