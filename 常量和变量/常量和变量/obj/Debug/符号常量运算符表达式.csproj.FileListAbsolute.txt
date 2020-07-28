@@ -1,5 +1,0 @@
-D:\c#\VS&C#\常量和变量\常量和变量\bin\Debug\常量和变量.exe.config
-D:\c#\VS&C#\常量和变量\常量和变量\bin\Debug\常量和变量.exe
-D:\c#\VS&C#\常量和变量\常量和变量\bin\Debug\常量和变量.pdb
-D:\c#\VS&C#\常量和变量\常量和变量\obj\Debug\常量和变量.exe
-D:\c#\VS&C#\常量和变量\常量和变量\obj\Debug\常量和变量.pdb

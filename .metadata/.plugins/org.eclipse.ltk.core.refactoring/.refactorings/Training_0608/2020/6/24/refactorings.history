@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.xinxin.aixuexi0.StudentMune&apos; to &apos;StuManage&apos;&#x0D;&#x0A;- Original project: &apos;Training_0608&apos;&#x0D;&#x0A;- Original element: &apos;com.xinxin.aixuexi0.StudentMune&apos;&#x0D;&#x0A;- Renamed element: &apos;com.xinxin.aixuexi0.StuManage&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;StudentMune&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.xinxin.aixuexi0{StudentMune.java[StudentMune" matchStrategy="1" name="StuManage" qualified="false" references="true" similarDeclarations="false" stamp="1591585968618" textual="false" version="1.0"/>
+</session>

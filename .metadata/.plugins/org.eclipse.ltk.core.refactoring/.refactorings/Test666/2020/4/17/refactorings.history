@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com20200423.Myexception&apos; to &apos;MyException&apos;&#x0D;&#x0A;- Original project: &apos;Test&apos;&#x0D;&#x0A;- Original element: &apos;com20200423.Myexception&apos;&#x0D;&#x0A;- Renamed element: &apos;com20200423.MyException&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Myexception&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com20200423{Myexception.java[Myexception" matchStrategy="1" name="MyException" qualified="false" references="true" similarDeclarations="false" stamp="1587629006479" textual="false" version="1.0"/>
+</session>

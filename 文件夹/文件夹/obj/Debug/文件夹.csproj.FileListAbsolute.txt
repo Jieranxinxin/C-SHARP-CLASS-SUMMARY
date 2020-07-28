@@ -1,9 +1,0 @@
-D:\C#\VS&C#\文件夹\文件夹\bin\Debug\文件夹.exe.config
-D:\C#\VS&C#\文件夹\文件夹\bin\Debug\文件夹.exe
-D:\C#\VS&C#\文件夹\文件夹\bin\Debug\文件夹.pdb
-D:\C#\VS&C#\文件夹\文件夹\obj\Debug\文件夹.csprojAssemblyReference.cache
-D:\C#\VS&C#\文件夹\文件夹\obj\Debug\文件夹.Form1.resources
-D:\C#\VS&C#\文件夹\文件夹\obj\Debug\文件夹.Properties.Resources.resources
-D:\C#\VS&C#\文件夹\文件夹\obj\Debug\文件夹.csproj.GenerateResource.cache
-D:\C#\VS&C#\文件夹\文件夹\obj\Debug\文件夹.exe
-D:\C#\VS&C#\文件夹\文件夹\obj\Debug\文件夹.pdb

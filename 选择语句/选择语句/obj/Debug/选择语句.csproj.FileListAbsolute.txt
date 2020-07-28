@@ -1,6 +1,0 @@
-D:\c#\VS&C#\选择语句\选择语句\obj\Debug\选择语句.csprojAssemblyReference.cache
-D:\c#\VS&C#\选择语句\选择语句\bin\Debug\选择语句.exe.config
-D:\c#\VS&C#\选择语句\选择语句\bin\Debug\选择语句.exe
-D:\c#\VS&C#\选择语句\选择语句\bin\Debug\选择语句.pdb
-D:\c#\VS&C#\选择语句\选择语句\obj\Debug\选择语句.exe
-D:\c#\VS&C#\选择语句\选择语句\obj\Debug\选择语句.pdb

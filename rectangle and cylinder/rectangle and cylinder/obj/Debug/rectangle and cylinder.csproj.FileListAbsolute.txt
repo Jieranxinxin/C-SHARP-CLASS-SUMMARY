@@ -1,9 +1,0 @@
-D:\C#\VS&C#\rectangle and cylinder\rectangle and cylinder\bin\Debug\rectangle and cylinder.exe.config
-D:\C#\VS&C#\rectangle and cylinder\rectangle and cylinder\bin\Debug\rectangle and cylinder.exe
-D:\C#\VS&C#\rectangle and cylinder\rectangle and cylinder\bin\Debug\rectangle and cylinder.pdb
-D:\C#\VS&C#\rectangle and cylinder\rectangle and cylinder\obj\Debug\rectangle and cylinder.csprojAssemblyReference.cache
-D:\C#\VS&C#\rectangle and cylinder\rectangle and cylinder\obj\Debug\rectangle_and_cylinder.Form1.resources
-D:\C#\VS&C#\rectangle and cylinder\rectangle and cylinder\obj\Debug\rectangle_and_cylinder.Properties.Resources.resources
-D:\C#\VS&C#\rectangle and cylinder\rectangle and cylinder\obj\Debug\rectangle and cylinder.csproj.GenerateResource.cache
-D:\C#\VS&C#\rectangle and cylinder\rectangle and cylinder\obj\Debug\rectangle and cylinder.exe
-D:\C#\VS&C#\rectangle and cylinder\rectangle and cylinder\obj\Debug\rectangle and cylinder.pdb

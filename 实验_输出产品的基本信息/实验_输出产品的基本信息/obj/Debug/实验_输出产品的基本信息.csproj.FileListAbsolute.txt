@@ -1,7 +1,0 @@
-D:\c#\VS&C#\实验_输出产品的基本信息\实验_输出产品的基本信息\bin\Debug\实验_输出产品的基本信息.exe.config
-D:\c#\VS&C#\实验_输出产品的基本信息\实验_输出产品的基本信息\bin\Debug\实验_输出产品的基本信息.exe
-D:\c#\VS&C#\实验_输出产品的基本信息\实验_输出产品的基本信息\bin\Debug\实验_输出产品的基本信息.pdb
-D:\c#\VS&C#\实验_输出产品的基本信息\实验_输出产品的基本信息\obj\Debug\实验_输出产品的基本信息.csprojAssemblyReference.cache
-D:\c#\VS&C#\实验_输出产品的基本信息\实验_输出产品的基本信息\obj\Debug\实验_输出产品的基本信息.exe
-D:\c#\VS&C#\实验_输出产品的基本信息\实验_输出产品的基本信息\obj\Debug\实验_输出产品的基本信息.pdb
-D:\C#\VS&C#\实验_输出产品的基本信息\实验_输出产品的基本信息\obj\Debug\实验_输出产品的基本信息.csproj.CoreCompileInputs.cache

@@ -1,6 +1,0 @@
-D:\c#\VS&C#\接口\接口\bin\Debug\接口.exe.config
-D:\c#\VS&C#\接口\接口\bin\Debug\接口.exe
-D:\c#\VS&C#\接口\接口\bin\Debug\接口.pdb
-D:\c#\VS&C#\接口\接口\obj\Debug\接口.csprojAssemblyReference.cache
-D:\c#\VS&C#\接口\接口\obj\Debug\接口.exe
-D:\c#\VS&C#\接口\接口\obj\Debug\接口.pdb

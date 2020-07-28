@@ -1,9 +1,0 @@
-D:\c#\VS&C#\TreeView控件\TreeView控件\bin\Debug\TreeView控件.exe.config
-D:\c#\VS&C#\TreeView控件\TreeView控件\bin\Debug\TreeView控件.exe
-D:\c#\VS&C#\TreeView控件\TreeView控件\bin\Debug\TreeView控件.pdb
-D:\c#\VS&C#\TreeView控件\TreeView控件\obj\Debug\TreeView控件.csprojAssemblyReference.cache
-D:\c#\VS&C#\TreeView控件\TreeView控件\obj\Debug\TreeView控件.Form1.resources
-D:\c#\VS&C#\TreeView控件\TreeView控件\obj\Debug\TreeView控件.Properties.Resources.resources
-D:\c#\VS&C#\TreeView控件\TreeView控件\obj\Debug\TreeView控件.csproj.GenerateResource.cache
-D:\c#\VS&C#\TreeView控件\TreeView控件\obj\Debug\TreeView控件.exe
-D:\c#\VS&C#\TreeView控件\TreeView控件\obj\Debug\TreeView控件.pdb

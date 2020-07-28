@@ -1,7 +1,0 @@
-D:\c#\VS&C#\数组替换实验\数组替换实验\bin\Debug\数组替换实验.exe.config
-D:\c#\VS&C#\数组替换实验\数组替换实验\bin\Debug\数组替换实验.exe
-D:\c#\VS&C#\数组替换实验\数组替换实验\bin\Debug\数组替换实验.pdb
-D:\c#\VS&C#\数组替换实验\数组替换实验\obj\Debug\数组替换实验.csprojAssemblyReference.cache
-D:\c#\VS&C#\数组替换实验\数组替换实验\obj\Debug\数组替换实验.exe
-D:\c#\VS&C#\数组替换实验\数组替换实验\obj\Debug\数组替换实验.pdb
-D:\C#\VS&C#\数组替换实验\数组替换实验\obj\Debug\数组替换实验.csproj.CoreCompileInputs.cache

@@ -1,6 +1,0 @@
-D:\c#\VS&C#\泛型\泛型\bin\Debug\泛型.exe.config
-D:\c#\VS&C#\泛型\泛型\bin\Debug\泛型.exe
-D:\c#\VS&C#\泛型\泛型\bin\Debug\泛型.pdb
-D:\c#\VS&C#\泛型\泛型\obj\Debug\泛型.csprojAssemblyReference.cache
-D:\c#\VS&C#\泛型\泛型\obj\Debug\泛型.exe
-D:\c#\VS&C#\泛型\泛型\obj\Debug\泛型.pdb

@@ -1,0 +1,24 @@
+package com.xinxin.java;
+
+public class TestArray {
+	public static void main (String[] args) {
+		boolean c=false;
+		int d1=10;
+		if(c & (d1++)>0) {
+			System.out.println("GOOD");
+		}else {
+			System.out.println("OK!");
+		}
+		System.out.println(d1);
+
+		int d2=10;
+		if(c && (d2++)>0) {
+			System.out.println("GOOD");
+		}else {
+			System.out.println("OK!");
+		}
+		System.out.println(d2);
+		
+	
+}
+}

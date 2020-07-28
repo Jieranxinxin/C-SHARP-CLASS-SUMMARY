@@ -1,6 +1,0 @@
-D:\c#\VS&C#\量，表达式，运算符\量，表达式，运算符\bin\Debug\量，表达式，运算符.exe.config
-D:\c#\VS&C#\量，表达式，运算符\量，表达式，运算符\bin\Debug\量，表达式，运算符.exe
-D:\c#\VS&C#\量，表达式，运算符\量，表达式，运算符\bin\Debug\量，表达式，运算符.pdb
-D:\c#\VS&C#\量，表达式，运算符\量，表达式，运算符\obj\Debug\量，表达式，运算符.exe
-D:\c#\VS&C#\量，表达式，运算符\量，表达式，运算符\obj\Debug\量，表达式，运算符.pdb
-D:\c#\VS&C#\量，表达式，运算符\量，表达式，运算符\obj\Debug\量，表达式，运算符.csprojAssemblyReference.cache

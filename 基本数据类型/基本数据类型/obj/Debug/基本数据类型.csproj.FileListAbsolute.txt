@@ -1,6 +1,0 @@
-D:\c#\VS&C#\基本数据类型\基本数据类型\bin\Debug\基本数据类型.exe.config
-D:\c#\VS&C#\基本数据类型\基本数据类型\bin\Debug\基本数据类型.exe
-D:\c#\VS&C#\基本数据类型\基本数据类型\bin\Debug\基本数据类型.pdb
-D:\c#\VS&C#\基本数据类型\基本数据类型\obj\Debug\基本数据类型.csprojAssemblyReference.cache
-D:\c#\VS&C#\基本数据类型\基本数据类型\obj\Debug\基本数据类型.exe
-D:\c#\VS&C#\基本数据类型\基本数据类型\obj\Debug\基本数据类型.pdb

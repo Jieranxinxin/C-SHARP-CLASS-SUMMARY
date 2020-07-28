@@ -1,6 +1,0 @@
-D:\c#\VS&C#\匿名\匿名\bin\Debug\匿名.exe.config
-D:\c#\VS&C#\匿名\匿名\bin\Debug\匿名.exe
-D:\c#\VS&C#\匿名\匿名\bin\Debug\匿名.pdb
-D:\c#\VS&C#\匿名\匿名\obj\Debug\匿名.csprojAssemblyReference.cache
-D:\c#\VS&C#\匿名\匿名\obj\Debug\匿名.exe
-D:\c#\VS&C#\匿名\匿名\obj\Debug\匿名.pdb
