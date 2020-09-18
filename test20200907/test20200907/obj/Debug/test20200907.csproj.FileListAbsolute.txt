@@ -1,0 +1,7 @@
+D:\C#\VS&C#\test20200907\test20200907\bin\Debug\test20200907.exe.config
+D:\C#\VS&C#\test20200907\test20200907\bin\Debug\test20200907.exe
+D:\C#\VS&C#\test20200907\test20200907\bin\Debug\test20200907.pdb
+D:\C#\VS&C#\test20200907\test20200907\obj\Debug\test20200907.csprojAssemblyReference.cache
+D:\C#\VS&C#\test20200907\test20200907\obj\Debug\test20200907.csproj.CoreCompileInputs.cache
+D:\C#\VS&C#\test20200907\test20200907\obj\Debug\test20200907.exe
+D:\C#\VS&C#\test20200907\test20200907\obj\Debug\test20200907.pdb

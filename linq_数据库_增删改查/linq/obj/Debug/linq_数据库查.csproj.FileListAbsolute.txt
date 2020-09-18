@@ -1,0 +1,10 @@
+D:\C#\VS&C#\linq_数据库_增删改查\linq\bin\Debug\linq.exe.config
+D:\C#\VS&C#\linq_数据库_增删改查\linq\bin\Debug\linq.exe
+D:\C#\VS&C#\linq_数据库_增删改查\linq\bin\Debug\linq.pdb
+D:\C#\VS&C#\linq_数据库_增删改查\linq\obj\Debug\linq_数据库查.csprojAssemblyReference.cache
+D:\C#\VS&C#\linq_数据库_增删改查\linq\obj\Debug\linq.查.resources
+D:\C#\VS&C#\linq_数据库_增删改查\linq\obj\Debug\linq.Properties.Resources.resources
+D:\C#\VS&C#\linq_数据库_增删改查\linq\obj\Debug\linq.增删改.resources
+D:\C#\VS&C#\linq_数据库_增删改查\linq\obj\Debug\linq_数据库查.csproj.GenerateResource.cache
+D:\C#\VS&C#\linq_数据库_增删改查\linq\obj\Debug\linq.exe
+D:\C#\VS&C#\linq_数据库_增删改查\linq\obj\Debug\linq.pdb

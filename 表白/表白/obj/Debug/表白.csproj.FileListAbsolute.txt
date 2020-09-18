@@ -1,0 +1,5 @@
+D:\c#\VS&C#\表白\表白\obj\Debug\表白.csprojAssemblyReference.cache
+D:\c#\VS&C#\表白\表白\obj\Debug\表白.Form1.resources
+D:\c#\VS&C#\表白\表白\obj\Debug\表白.Properties.Resources.resources
+D:\c#\VS&C#\表白\表白\obj\Debug\表白.csproj.GenerateResource.cache
+D:\C#\VS&C#\表白\表白\obj\Debug\表白.csproj.CoreCompileInputs.cache

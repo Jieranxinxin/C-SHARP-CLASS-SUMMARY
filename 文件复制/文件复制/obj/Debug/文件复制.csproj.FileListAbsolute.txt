@@ -1,0 +1,11 @@
+D:\C#\VS&C#\文件复制\文件复制\bin\Debug\文件复制.exe.config
+D:\C#\VS&C#\文件复制\文件复制\bin\Debug\文件复制.exe
+D:\C#\VS&C#\文件复制\文件复制\bin\Debug\文件复制.pdb
+D:\C#\VS&C#\文件复制\文件复制\obj\Debug\文件复制.csprojAssemblyReference.cache
+D:\C#\VS&C#\文件复制\文件复制\obj\Debug\文件复制.Form1.resources
+D:\C#\VS&C#\文件复制\文件复制\obj\Debug\文件复制.Properties.Resources.resources
+D:\C#\VS&C#\文件复制\文件复制\obj\Debug\文件复制.csproj.GenerateResource.cache
+D:\C#\VS&C#\文件复制\文件复制\obj\Debug\文件复制.exe
+D:\C#\VS&C#\文件复制\文件复制\obj\Debug\文件复制.pdb
+D:\C#\VS&C#\文件复制\文件复制\obj\Debug\文件复制.Form2.resources
+D:\C#\VS&C#\文件复制\文件复制\obj\Debug\文件复制.csproj.CoreCompileInputs.cache

@@ -1,0 +1,6 @@
+D:\C#\VS&C#\linq表达式\linq表达式\bin\Debug\linq表达式.exe.config
+D:\C#\VS&C#\linq表达式\linq表达式\bin\Debug\linq表达式.exe
+D:\C#\VS&C#\linq表达式\linq表达式\bin\Debug\linq表达式.pdb
+D:\C#\VS&C#\linq表达式\linq表达式\obj\Debug\linq表达式.csprojAssemblyReference.cache
+D:\C#\VS&C#\linq表达式\linq表达式\obj\Debug\linq表达式.exe
+D:\C#\VS&C#\linq表达式\linq表达式\obj\Debug\linq表达式.pdb

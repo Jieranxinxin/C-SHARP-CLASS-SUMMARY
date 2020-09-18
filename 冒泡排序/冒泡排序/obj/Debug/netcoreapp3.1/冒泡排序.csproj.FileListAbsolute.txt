@@ -1,0 +1,13 @@
+D:\C#\VS&C#\冒泡排序\冒泡排序\bin\Debug\netcoreapp3.1\冒泡排序.exe
+D:\C#\VS&C#\冒泡排序\冒泡排序\bin\Debug\netcoreapp3.1\冒泡排序.deps.json
+D:\C#\VS&C#\冒泡排序\冒泡排序\bin\Debug\netcoreapp3.1\冒泡排序.runtimeconfig.json
+D:\C#\VS&C#\冒泡排序\冒泡排序\bin\Debug\netcoreapp3.1\冒泡排序.runtimeconfig.dev.json
+D:\C#\VS&C#\冒泡排序\冒泡排序\bin\Debug\netcoreapp3.1\冒泡排序.dll
+D:\C#\VS&C#\冒泡排序\冒泡排序\bin\Debug\netcoreapp3.1\冒泡排序.pdb
+D:\C#\VS&C#\冒泡排序\冒泡排序\obj\Debug\netcoreapp3.1\冒泡排序.csprojAssemblyReference.cache
+D:\C#\VS&C#\冒泡排序\冒泡排序\obj\Debug\netcoreapp3.1\冒泡排序.AssemblyInfoInputs.cache
+D:\C#\VS&C#\冒泡排序\冒泡排序\obj\Debug\netcoreapp3.1\冒泡排序.AssemblyInfo.cs
+D:\C#\VS&C#\冒泡排序\冒泡排序\obj\Debug\netcoreapp3.1\冒泡排序.csproj.CoreCompileInputs.cache
+D:\C#\VS&C#\冒泡排序\冒泡排序\obj\Debug\netcoreapp3.1\冒泡排序.dll
+D:\C#\VS&C#\冒泡排序\冒泡排序\obj\Debug\netcoreapp3.1\冒泡排序.pdb
+D:\C#\VS&C#\冒泡排序\冒泡排序\obj\Debug\netcoreapp3.1\冒泡排序.genruntimeconfig.cache

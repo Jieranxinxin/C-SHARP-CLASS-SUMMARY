@@ -1,0 +1,10 @@
+D:\C#\VS&C#\桌面提醒\桌面提醒\bin\Debug\桌面提醒.exe.config
+D:\C#\VS&C#\桌面提醒\桌面提醒\bin\Debug\桌面提醒.exe
+D:\C#\VS&C#\桌面提醒\桌面提醒\bin\Debug\桌面提醒.pdb
+D:\C#\VS&C#\桌面提醒\桌面提醒\obj\Debug\桌面提醒.csprojAssemblyReference.cache
+D:\C#\VS&C#\桌面提醒\桌面提醒\obj\Debug\桌面提醒.Form1.resources
+D:\C#\VS&C#\桌面提醒\桌面提醒\obj\Debug\桌面提醒.Properties.Resources.resources
+D:\C#\VS&C#\桌面提醒\桌面提醒\obj\Debug\桌面提醒.csproj.GenerateResource.cache
+D:\C#\VS&C#\桌面提醒\桌面提醒\obj\Debug\桌面提醒.csproj.CoreCompileInputs.cache
+D:\C#\VS&C#\桌面提醒\桌面提醒\obj\Debug\桌面提醒.exe
+D:\C#\VS&C#\桌面提醒\桌面提醒\obj\Debug\桌面提醒.pdb

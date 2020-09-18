@@ -1,0 +1,10 @@
+D:\C#\VS&C#\PlayUI\PlayUI\bin\Debug\PlayUI.exe.config
+D:\C#\VS&C#\PlayUI\PlayUI\bin\Debug\PlayUI.exe
+D:\C#\VS&C#\PlayUI\PlayUI\bin\Debug\PlayUI.pdb
+D:\C#\VS&C#\PlayUI\PlayUI\obj\Debug\PlayUI.csprojAssemblyReference.cache
+D:\C#\VS&C#\PlayUI\PlayUI\obj\Debug\PlayUI.Properties.Resources.resources
+D:\C#\VS&C#\PlayUI\PlayUI\obj\Debug\PlayUI.csproj.GenerateResource.cache
+D:\C#\VS&C#\PlayUI\PlayUI\obj\Debug\PlayUI.exe
+D:\C#\VS&C#\PlayUI\PlayUI\obj\Debug\PlayUI.pdb
+D:\C#\VS&C#\PlayUI\PlayUI\obj\Debug\PlayUI.MainForm.resources
+D:\C#\VS&C#\PlayUI\PlayUI\obj\Debug\PlayUI.Form1.resources

@@ -1,0 +1,10 @@
+D:\C#\VS&C#\运算符\运算符\bin\Debug\运算符.exe.config
+D:\C#\VS&C#\运算符\运算符\bin\Debug\运算符.exe
+D:\C#\VS&C#\运算符\运算符\bin\Debug\运算符.pdb
+D:\C#\VS&C#\运算符\运算符\obj\Debug\运算符.csprojAssemblyReference.cache
+D:\C#\VS&C#\运算符\运算符\obj\Debug\运算符.Form1.resources
+D:\C#\VS&C#\运算符\运算符\obj\Debug\运算符.Properties.Resources.resources
+D:\C#\VS&C#\运算符\运算符\obj\Debug\运算符.csproj.GenerateResource.cache
+D:\C#\VS&C#\运算符\运算符\obj\Debug\运算符.csproj.CoreCompileInputs.cache
+D:\C#\VS&C#\运算符\运算符\obj\Debug\运算符.exe
+D:\C#\VS&C#\运算符\运算符\obj\Debug\运算符.pdb

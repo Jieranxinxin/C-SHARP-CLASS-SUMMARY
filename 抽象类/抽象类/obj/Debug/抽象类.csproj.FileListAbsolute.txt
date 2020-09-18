@@ -1,0 +1,5 @@
+D:\c#\VS&C#\抽象类\抽象类\bin\Debug\抽象类.exe.config
+D:\c#\VS&C#\抽象类\抽象类\bin\Debug\抽象类.exe
+D:\c#\VS&C#\抽象类\抽象类\bin\Debug\抽象类.pdb
+D:\c#\VS&C#\抽象类\抽象类\obj\Debug\抽象类.exe
+D:\c#\VS&C#\抽象类\抽象类\obj\Debug\抽象类.pdb

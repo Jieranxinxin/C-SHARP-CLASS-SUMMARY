@@ -1,0 +1,11 @@
+D:\C#\VS&C#\多窗体\多窗体\bin\Debug\多窗体.exe.config
+D:\C#\VS&C#\多窗体\多窗体\bin\Debug\多窗体.exe
+D:\C#\VS&C#\多窗体\多窗体\bin\Debug\多窗体.pdb
+D:\C#\VS&C#\多窗体\多窗体\obj\Debug\多窗体.csprojAssemblyReference.cache
+D:\C#\VS&C#\多窗体\多窗体\obj\Debug\多窗体.Form1.resources
+D:\C#\VS&C#\多窗体\多窗体\obj\Debug\多窗体.Properties.Resources.resources
+D:\C#\VS&C#\多窗体\多窗体\obj\Debug\多窗体.csproj.GenerateResource.cache
+D:\C#\VS&C#\多窗体\多窗体\obj\Debug\多窗体.exe
+D:\C#\VS&C#\多窗体\多窗体\obj\Debug\多窗体.pdb
+D:\C#\VS&C#\多窗体\多窗体\obj\Debug\多窗体.Form2.resources
+D:\C#\VS&C#\多窗体\多窗体\obj\Debug\多窗体.Form3.resources

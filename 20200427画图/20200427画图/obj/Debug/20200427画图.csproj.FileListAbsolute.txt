@@ -1,0 +1,10 @@
+D:\C#\VS&C#\20200427画图\20200427画图\bin\Debug\20200427画图.exe.config
+D:\C#\VS&C#\20200427画图\20200427画图\bin\Debug\20200427画图.exe
+D:\C#\VS&C#\20200427画图\20200427画图\bin\Debug\20200427画图.pdb
+D:\C#\VS&C#\20200427画图\20200427画图\obj\Debug\20200427画图.csprojAssemblyReference.cache
+D:\C#\VS&C#\20200427画图\20200427画图\obj\Debug\_20200427画图.Form1.resources
+D:\C#\VS&C#\20200427画图\20200427画图\obj\Debug\_20200427画图.Properties.Resources.resources
+D:\C#\VS&C#\20200427画图\20200427画图\obj\Debug\20200427画图.csproj.GenerateResource.cache
+D:\C#\VS&C#\20200427画图\20200427画图\obj\Debug\20200427画图.exe
+D:\C#\VS&C#\20200427画图\20200427画图\obj\Debug\20200427画图.pdb
+D:\C#\VS&C#\20200427画图\20200427画图\obj\Debug\20200427画图.csproj.CoreCompileInputs.cache

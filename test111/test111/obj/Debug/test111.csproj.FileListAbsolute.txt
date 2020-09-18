@@ -1,0 +1,10 @@
+D:\C#\VS&C#\test111\test111\bin\Debug\test111.exe.config
+D:\C#\VS&C#\test111\test111\bin\Debug\test111.exe
+D:\C#\VS&C#\test111\test111\bin\Debug\test111.pdb
+D:\C#\VS&C#\test111\test111\obj\Debug\test111.csprojAssemblyReference.cache
+D:\C#\VS&C#\test111\test111\obj\Debug\test111.Form1.resources
+D:\C#\VS&C#\test111\test111\obj\Debug\test111.Properties.Resources.resources
+D:\C#\VS&C#\test111\test111\obj\Debug\test111.csproj.GenerateResource.cache
+D:\C#\VS&C#\test111\test111\obj\Debug\test111.csproj.CoreCompileInputs.cache
+D:\C#\VS&C#\test111\test111\obj\Debug\test111.exe
+D:\C#\VS&C#\test111\test111\obj\Debug\test111.pdb
